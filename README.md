@@ -1,2 +1,6 @@
 # hello-world
-Start-Up Guide
+
+Hi All
+
+Just trying to understand this whole GitHub thing...
+
